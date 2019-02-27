@@ -1,4 +1,5 @@
-# GEO Protocol Press Kit
+![Logo](https://github.com/GEO-Protocol/Press-Kit/blob/master/other/repo-header.png)
+
 
  Materials available for download on this page are provided under [`CC BY 4.0`](https://creativecommons.org/licenses/by/4.0/legalcode). <br/> 
  This means that you can pretty much do what you like with it including printing it on shirts, 
